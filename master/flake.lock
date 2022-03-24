@@ -2,48 +2,21 @@
   "nodes": {
     "cmixer": {
       "inputs": {
-        "cmixer-master": "cmixer-master",
         "flakeNimbleLib": [
           "flakeNimbleLib"
         ],
         "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1648107384,
-        "narHash": "sha256-aWTaS/C3OIGJWDn+W36rIcWdPo52yunFHT34vrY5t1g=",
-        "owner": "nim-nix-pkgs",
-        "repo": "cmixer",
-        "rev": "337d13c3c908505ae15f5b6982e67a8f384d21f5",
-        "type": "github"
-      },
-      "original": {
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "cmixer",
-        "type": "github"
-      }
-    },
-    "cmixer-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "cmixer",
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "cmixer",
           "nixpkgs"
         ],
         "src-cmixer-master": "src-cmixer-master"
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1648107384,
-        "narHash": "sha256-aWTaS/C3OIGJWDn+W36rIcWdPo52yunFHT34vrY5t1g=",
+        "lastModified": 1648162996,
+        "narHash": "sha256-UMduI9Ezz0GSCtlnAnDwG2X8RklkffeErLJ1HWPFK3A=",
         "owner": "nim-nix-pkgs",
         "repo": "cmixer",
-        "rev": "337d13c3c908505ae15f5b6982e67a8f384d21f5",
+        "rev": "42a7b07230c6a68fb0aad0b5a174ead3a36ea133",
         "type": "github"
       },
       "original": {
