@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/rxi/cmixer_sdl2-nim",
   "refs": [
-    "fatal: unable to access 'https://github.com/rxi/cmixer_sdl2-nim/': Error in the HTTP2 framing layer",
+    "fatal: unable to access 'https://github.com/rxi/cmixer_sdl2-nim/': Failed to connect to github.com port 443 after 131881 ms: Connection timed out",
     ""
   ],
   "heads": []
