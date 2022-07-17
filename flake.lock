@@ -43,11 +43,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656747777,
-        "narHash": "sha256-d4nYMMB5nUo7Jsdq8pGXkYmc/nnBMHrDrGFKnHRyZ/E=",
+        "lastModified": 1657153982,
+        "narHash": "sha256-nSNvqsayYTn972DgbSrKmwNj2w89WPdzUyKaZpEoXp0=",
         "owner": "nim-nix-pkgs",
         "repo": "cmixer_sdl2",
-        "rev": "07e2e4df0ebb6790f5d658c95d2ab1c7e51cd49d",
+        "rev": "bc1773ac0eff01ef5dcbf7b9b657bb8de893ec64",
         "type": "github"
       },
       "original": {
